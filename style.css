@@ -1,0 +1,40 @@
+.dev_1{
+    font-size: 80px;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+#G{
+    color: blue;
+
+}
+#o{
+    color: red;
+
+}
+#oo{
+    color: yellow;
+
+}
+#g{
+    color: blue;
+
+}
+#l{
+    color: green;
+
+}
+#e{
+    color: red;
+}
+#nida{
+    color:blue ;
+}
+.dev_2{
+    margin-left: 60%;
+    font-family: "Times New Roman", Times, serif;
+    color: rgba(0,0,0,0.5);
+    letter-spacing: 5px;
+    font-size: 30px;
+
+}
